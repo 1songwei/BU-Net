@@ -7,7 +7,7 @@ Hardware ：all experiments are run on a computer with Intel(R) Xeon(R) CPU E5-2
 
 Software（Major）：
 
- tensorflow ---------      1.13.1 
+ tensorflow ---------                1.13.1 
  
  scipy     ---------                 1.5.2
  
@@ -23,10 +23,10 @@ Software（Major）：
  
  matplotlib      ---------           2.2.2 
  
- anaconda   ---------                 5.2.0   
+ anaconda   ---------                5.2.0   
 
 
----------Samson Dataset 
+---------Samson.zip(samson dataset)
 
 samson_1.mat : Hyperspectral data
 
