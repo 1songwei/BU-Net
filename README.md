@@ -1,13 +1,13 @@
 # BU-Net
 Source Code for BU-Net (continuously updating)
 
----------Environment
+# ---------Environment
 
 Hardware ：all experiments are run on a computer with Intel(R) Xeon(R) CPU E5-2650 v4 @ 2.20GHz and GPU GeForce GTX 1080 Ti.
 
 Software（Major）：
 
- tensorflow                1.13.1 
+ tensorflow ---------      1.13.1 
  
  scipy                     1.5.2
  
