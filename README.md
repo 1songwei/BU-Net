@@ -8,13 +8,21 @@ Hardware ：all experiments are run on a computer with Intel(R) Xeon(R) CPU E5-2
 Software（Major）：
 
  tensorflow                1.13.1 
- scipy                     1.5.2 
+ 
+ scipy                     1.5.2
+ 
  numpy                     1.19.2
+ 
  opencv-python             4.2.0.34 
+ 
  Pillow                    8.4.0 
+ 
  scikit-image              0.17.2 
+ 
  keras-base                2.2.4 
+ 
  matplotlib                2.2.2 
+ 
  anaconda                  5.2.0   
 
 
